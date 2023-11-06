@@ -22,3 +22,4 @@ ContactListItem.propTypes = {
   number: PropTypes.string.isRequired,
   deleteContact: PropTypes.func.isRequired,
 };
+
